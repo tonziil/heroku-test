@@ -1,0 +1,52 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  
+  body {
+    background-color: coral;
+  }
+  
+  form {
+    width: 40%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form input,
+  form button {
+    height: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 2px;
+    font-size: 1.2rem;
+    text-shadow: none;
+    border: none;
+  }
+  
+  form button {
+    height: 2rem;
+  }
+  
+  /* Home */
+  a {
+      font-size: 40px;
+      text-decoration: none;
+  }
+  
+  .home-page {
+    margin: 5rem auto;
+    text-align: center;
+  }
+  
+  /* Registration */
+  
+  .reg-page {
+    text-align: center;
+  }
+  
+  /* Secret Page */
+  
+  .s-page h1 {
+    text-align: center;
+  }
